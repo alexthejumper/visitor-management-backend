@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/sign-out
+Content-Type: application/json
+
+{
+  "fName": "Alexandre",
+  "lName": "Chloe",
+  "departureTime": "2024-12-06T15:00:00"
+}
